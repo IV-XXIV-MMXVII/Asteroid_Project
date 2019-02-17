@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 176e76f4a72451e40ab0a86e8612a368
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeathAreaPrefab: {fileID: 6367281284108673983, guid: c5ae7edb0c618384e8b09cf710302164,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
